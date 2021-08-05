@@ -1,0 +1,16 @@
+D:\.NET\SoftUni\Algorithms Fundamentals (with C#) – ноември 2020\2. Recursion and Backtracking\AF - Recursion and Backtracking\1_Recursive_Array_Sum\bin\Debug\net5.0\01. Recursive Array Sum.exe
+D:\.NET\SoftUni\Algorithms Fundamentals (with C#) – ноември 2020\2. Recursion and Backtracking\AF - Recursion and Backtracking\1_Recursive_Array_Sum\bin\Debug\net5.0\01. Recursive Array Sum.deps.json
+D:\.NET\SoftUni\Algorithms Fundamentals (with C#) – ноември 2020\2. Recursion and Backtracking\AF - Recursion and Backtracking\1_Recursive_Array_Sum\bin\Debug\net5.0\01. Recursive Array Sum.runtimeconfig.json
+D:\.NET\SoftUni\Algorithms Fundamentals (with C#) – ноември 2020\2. Recursion and Backtracking\AF - Recursion and Backtracking\1_Recursive_Array_Sum\bin\Debug\net5.0\01. Recursive Array Sum.runtimeconfig.dev.json
+D:\.NET\SoftUni\Algorithms Fundamentals (with C#) – ноември 2020\2. Recursion and Backtracking\AF - Recursion and Backtracking\1_Recursive_Array_Sum\bin\Debug\net5.0\01. Recursive Array Sum.dll
+D:\.NET\SoftUni\Algorithms Fundamentals (with C#) – ноември 2020\2. Recursion and Backtracking\AF - Recursion and Backtracking\1_Recursive_Array_Sum\bin\Debug\net5.0\ref\01. Recursive Array Sum.dll
+D:\.NET\SoftUni\Algorithms Fundamentals (with C#) – ноември 2020\2. Recursion and Backtracking\AF - Recursion and Backtracking\1_Recursive_Array_Sum\bin\Debug\net5.0\01. Recursive Array Sum.pdb
+D:\.NET\SoftUni\Algorithms Fundamentals (with C#) – ноември 2020\2. Recursion and Backtracking\AF - Recursion and Backtracking\1_Recursive_Array_Sum\obj\Debug\net5.0\01. Recursive Array Sum.csproj.AssemblyReference.cache
+D:\.NET\SoftUni\Algorithms Fundamentals (with C#) – ноември 2020\2. Recursion and Backtracking\AF - Recursion and Backtracking\1_Recursive_Array_Sum\obj\Debug\net5.0\01. Recursive Array Sum.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\SoftUni\Algorithms Fundamentals (with C#) – ноември 2020\2. Recursion and Backtracking\AF - Recursion and Backtracking\1_Recursive_Array_Sum\obj\Debug\net5.0\01. Recursive Array Sum.AssemblyInfoInputs.cache
+D:\.NET\SoftUni\Algorithms Fundamentals (with C#) – ноември 2020\2. Recursion and Backtracking\AF - Recursion and Backtracking\1_Recursive_Array_Sum\obj\Debug\net5.0\01. Recursive Array Sum.AssemblyInfo.cs
+D:\.NET\SoftUni\Algorithms Fundamentals (with C#) – ноември 2020\2. Recursion and Backtracking\AF - Recursion and Backtracking\1_Recursive_Array_Sum\obj\Debug\net5.0\01. Recursive Array Sum.csproj.CoreCompileInputs.cache
+D:\.NET\SoftUni\Algorithms Fundamentals (with C#) – ноември 2020\2. Recursion and Backtracking\AF - Recursion and Backtracking\1_Recursive_Array_Sum\obj\Debug\net5.0\01. Recursive Array Sum.dll
+D:\.NET\SoftUni\Algorithms Fundamentals (with C#) – ноември 2020\2. Recursion and Backtracking\AF - Recursion and Backtracking\1_Recursive_Array_Sum\obj\Debug\net5.0\ref\01. Recursive Array Sum.dll
+D:\.NET\SoftUni\Algorithms Fundamentals (with C#) – ноември 2020\2. Recursion and Backtracking\AF - Recursion and Backtracking\1_Recursive_Array_Sum\obj\Debug\net5.0\01. Recursive Array Sum.pdb
+D:\.NET\SoftUni\Algorithms Fundamentals (with C#) – ноември 2020\2. Recursion and Backtracking\AF - Recursion and Backtracking\1_Recursive_Array_Sum\obj\Debug\net5.0\01. Recursive Array Sum.genruntimeconfig.cache
