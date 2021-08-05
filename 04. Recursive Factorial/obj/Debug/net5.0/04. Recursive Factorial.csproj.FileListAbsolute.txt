@@ -1,0 +1,16 @@
+D:\.NET\SoftUni\Algorithms Fundamentals (with C#) – ноември 2020\2. Recursion and Backtracking\AF - Recursion and Backtracking\04. Recursive Factorial\bin\Debug\net5.0\04. Recursive Factorial.exe
+D:\.NET\SoftUni\Algorithms Fundamentals (with C#) – ноември 2020\2. Recursion and Backtracking\AF - Recursion and Backtracking\04. Recursive Factorial\bin\Debug\net5.0\04. Recursive Factorial.deps.json
+D:\.NET\SoftUni\Algorithms Fundamentals (with C#) – ноември 2020\2. Recursion and Backtracking\AF - Recursion and Backtracking\04. Recursive Factorial\bin\Debug\net5.0\04. Recursive Factorial.runtimeconfig.json
+D:\.NET\SoftUni\Algorithms Fundamentals (with C#) – ноември 2020\2. Recursion and Backtracking\AF - Recursion and Backtracking\04. Recursive Factorial\bin\Debug\net5.0\04. Recursive Factorial.runtimeconfig.dev.json
+D:\.NET\SoftUni\Algorithms Fundamentals (with C#) – ноември 2020\2. Recursion and Backtracking\AF - Recursion and Backtracking\04. Recursive Factorial\bin\Debug\net5.0\04. Recursive Factorial.dll
+D:\.NET\SoftUni\Algorithms Fundamentals (with C#) – ноември 2020\2. Recursion and Backtracking\AF - Recursion and Backtracking\04. Recursive Factorial\bin\Debug\net5.0\ref\04. Recursive Factorial.dll
+D:\.NET\SoftUni\Algorithms Fundamentals (with C#) – ноември 2020\2. Recursion and Backtracking\AF - Recursion and Backtracking\04. Recursive Factorial\bin\Debug\net5.0\04. Recursive Factorial.pdb
+D:\.NET\SoftUni\Algorithms Fundamentals (with C#) – ноември 2020\2. Recursion and Backtracking\AF - Recursion and Backtracking\04. Recursive Factorial\obj\Debug\net5.0\04. Recursive Factorial.csproj.AssemblyReference.cache
+D:\.NET\SoftUni\Algorithms Fundamentals (with C#) – ноември 2020\2. Recursion and Backtracking\AF - Recursion and Backtracking\04. Recursive Factorial\obj\Debug\net5.0\04. Recursive Factorial.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\SoftUni\Algorithms Fundamentals (with C#) – ноември 2020\2. Recursion and Backtracking\AF - Recursion and Backtracking\04. Recursive Factorial\obj\Debug\net5.0\04. Recursive Factorial.AssemblyInfoInputs.cache
+D:\.NET\SoftUni\Algorithms Fundamentals (with C#) – ноември 2020\2. Recursion and Backtracking\AF - Recursion and Backtracking\04. Recursive Factorial\obj\Debug\net5.0\04. Recursive Factorial.AssemblyInfo.cs
+D:\.NET\SoftUni\Algorithms Fundamentals (with C#) – ноември 2020\2. Recursion and Backtracking\AF - Recursion and Backtracking\04. Recursive Factorial\obj\Debug\net5.0\04. Recursive Factorial.csproj.CoreCompileInputs.cache
+D:\.NET\SoftUni\Algorithms Fundamentals (with C#) – ноември 2020\2. Recursion and Backtracking\AF - Recursion and Backtracking\04. Recursive Factorial\obj\Debug\net5.0\04. Recursive Factorial.dll
+D:\.NET\SoftUni\Algorithms Fundamentals (with C#) – ноември 2020\2. Recursion and Backtracking\AF - Recursion and Backtracking\04. Recursive Factorial\obj\Debug\net5.0\ref\04. Recursive Factorial.dll
+D:\.NET\SoftUni\Algorithms Fundamentals (with C#) – ноември 2020\2. Recursion and Backtracking\AF - Recursion and Backtracking\04. Recursive Factorial\obj\Debug\net5.0\04. Recursive Factorial.pdb
+D:\.NET\SoftUni\Algorithms Fundamentals (with C#) – ноември 2020\2. Recursion and Backtracking\AF - Recursion and Backtracking\04. Recursive Factorial\obj\Debug\net5.0\04. Recursive Factorial.genruntimeconfig.cache
