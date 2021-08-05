@@ -1,0 +1,16 @@
+D:\.NET\SoftUni\Algorithms Fundamentals (with C#) – ноември 2020\2. Recursion and Backtracking\AF - Recursion and Backtracking\02. Recursive Drawing\bin\Debug\net5.0\02. Recursive Drawing.exe
+D:\.NET\SoftUni\Algorithms Fundamentals (with C#) – ноември 2020\2. Recursion and Backtracking\AF - Recursion and Backtracking\02. Recursive Drawing\bin\Debug\net5.0\02. Recursive Drawing.deps.json
+D:\.NET\SoftUni\Algorithms Fundamentals (with C#) – ноември 2020\2. Recursion and Backtracking\AF - Recursion and Backtracking\02. Recursive Drawing\bin\Debug\net5.0\02. Recursive Drawing.runtimeconfig.json
+D:\.NET\SoftUni\Algorithms Fundamentals (with C#) – ноември 2020\2. Recursion and Backtracking\AF - Recursion and Backtracking\02. Recursive Drawing\bin\Debug\net5.0\02. Recursive Drawing.runtimeconfig.dev.json
+D:\.NET\SoftUni\Algorithms Fundamentals (with C#) – ноември 2020\2. Recursion and Backtracking\AF - Recursion and Backtracking\02. Recursive Drawing\bin\Debug\net5.0\02. Recursive Drawing.dll
+D:\.NET\SoftUni\Algorithms Fundamentals (with C#) – ноември 2020\2. Recursion and Backtracking\AF - Recursion and Backtracking\02. Recursive Drawing\bin\Debug\net5.0\ref\02. Recursive Drawing.dll
+D:\.NET\SoftUni\Algorithms Fundamentals (with C#) – ноември 2020\2. Recursion and Backtracking\AF - Recursion and Backtracking\02. Recursive Drawing\bin\Debug\net5.0\02. Recursive Drawing.pdb
+D:\.NET\SoftUni\Algorithms Fundamentals (with C#) – ноември 2020\2. Recursion and Backtracking\AF - Recursion and Backtracking\02. Recursive Drawing\obj\Debug\net5.0\02. Recursive Drawing.csproj.AssemblyReference.cache
+D:\.NET\SoftUni\Algorithms Fundamentals (with C#) – ноември 2020\2. Recursion and Backtracking\AF - Recursion and Backtracking\02. Recursive Drawing\obj\Debug\net5.0\02. Recursive Drawing.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\SoftUni\Algorithms Fundamentals (with C#) – ноември 2020\2. Recursion and Backtracking\AF - Recursion and Backtracking\02. Recursive Drawing\obj\Debug\net5.0\02. Recursive Drawing.AssemblyInfoInputs.cache
+D:\.NET\SoftUni\Algorithms Fundamentals (with C#) – ноември 2020\2. Recursion and Backtracking\AF - Recursion and Backtracking\02. Recursive Drawing\obj\Debug\net5.0\02. Recursive Drawing.AssemblyInfo.cs
+D:\.NET\SoftUni\Algorithms Fundamentals (with C#) – ноември 2020\2. Recursion and Backtracking\AF - Recursion and Backtracking\02. Recursive Drawing\obj\Debug\net5.0\02. Recursive Drawing.csproj.CoreCompileInputs.cache
+D:\.NET\SoftUni\Algorithms Fundamentals (with C#) – ноември 2020\2. Recursion and Backtracking\AF - Recursion and Backtracking\02. Recursive Drawing\obj\Debug\net5.0\02. Recursive Drawing.dll
+D:\.NET\SoftUni\Algorithms Fundamentals (with C#) – ноември 2020\2. Recursion and Backtracking\AF - Recursion and Backtracking\02. Recursive Drawing\obj\Debug\net5.0\ref\02. Recursive Drawing.dll
+D:\.NET\SoftUni\Algorithms Fundamentals (with C#) – ноември 2020\2. Recursion and Backtracking\AF - Recursion and Backtracking\02. Recursive Drawing\obj\Debug\net5.0\02. Recursive Drawing.pdb
+D:\.NET\SoftUni\Algorithms Fundamentals (with C#) – ноември 2020\2. Recursion and Backtracking\AF - Recursion and Backtracking\02. Recursive Drawing\obj\Debug\net5.0\02. Recursive Drawing.genruntimeconfig.cache
