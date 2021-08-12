@@ -6,3 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.PublishSingleFile = 
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = _03._Generating_0_1_Vectors
+build_property.ProjectDir = C:\Users\dakov\OneDrive\Документи OneNote\GitHub\Git Repos\Git SoftUni\SoftUni Repos\Recursion\03. Generating 0-1 Vectors\

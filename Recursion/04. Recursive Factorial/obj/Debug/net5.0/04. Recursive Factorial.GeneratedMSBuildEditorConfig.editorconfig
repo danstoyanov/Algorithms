@@ -6,3 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.PublishSingleFile = 
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = _04._Recursive_Factorial
+build_property.ProjectDir = C:\Users\dakov\OneDrive\Документи OneNote\GitHub\Git Repos\Git SoftUni\SoftUni Repos\Recursion\04. Recursive Factorial\
