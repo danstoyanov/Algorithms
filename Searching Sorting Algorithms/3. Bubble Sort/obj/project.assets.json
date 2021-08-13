@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dakov\\OneDrive\\Документи OneNote\\GitHub\\Git Repos\\Git SoftUni\\SoftUni Repos\\Searching Sorting Algorithms\\3. Bubble Sort\\3. Bubble Sort.csproj",
-      "projectName": "3. Bubble Sort",
-      "projectPath": "C:\\Users\\dakov\\OneDrive\\Документи OneNote\\GitHub\\Git Repos\\Git SoftUni\\SoftUni Repos\\Searching Sorting Algorithms\\3. Bubble Sort\\3. Bubble Sort.csproj",
+      "projectUniqueName": "C:\\Users\\dakov\\OneDrive\\Документи OneNote\\GitHub\\Git Repos\\Git SoftUni\\SoftUni Repos\\Searching Sorting Algorithms\\3. Bubble Sort\\03. Bubble Sort.csproj",
+      "projectName": "03. Bubble Sort",
+      "projectPath": "C:\\Users\\dakov\\OneDrive\\Документи OneNote\\GitHub\\Git Repos\\Git SoftUni\\SoftUni Repos\\Searching Sorting Algorithms\\3. Bubble Sort\\03. Bubble Sort.csproj",
       "packagesPath": "C:\\Users\\dakov\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\dakov\\OneDrive\\Документи OneNote\\GitHub\\Git Repos\\Git SoftUni\\SoftUni Repos\\Searching Sorting Algorithms\\3. Bubble Sort\\obj\\",
       "projectStyle": "PackageReference",

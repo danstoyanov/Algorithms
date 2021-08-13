@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Selection Sort", "02. S
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Binary Search", "01. Binary Search\01. Binary Search.csproj", "{44EA7415-05AA-4D67-9FE6-A9D43A2D9BE7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. Bubble Sort", "3. Bubble Sort\3. Bubble Sort.csproj", "{594B4D78-9548-4390-8ED0-DDDAB05FB604}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Bubble Sort", "3. Bubble Sort\03. Bubble Sort.csproj", "{594B4D78-9548-4390-8ED0-DDDAB05FB604}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
