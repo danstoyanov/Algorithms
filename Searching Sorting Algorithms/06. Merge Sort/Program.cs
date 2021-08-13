@@ -4,9 +4,9 @@ namespace _06._Merge_Sort
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
-            Console.WriteLine("Hello World!");
+
         }
     }
 }
