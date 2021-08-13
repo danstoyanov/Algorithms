@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dakov\\OneDrive\\Документи OneNote\\GitHub\\Git Repos\\Git SoftUni\\SoftUni Repos\\Combinatorial Problems\\Combinatorial Problems\\Combinatorial Problems.csproj",
-      "projectName": "Combinatorial Problems",
-      "projectPath": "C:\\Users\\dakov\\OneDrive\\Документи OneNote\\GitHub\\Git Repos\\Git SoftUni\\SoftUni Repos\\Combinatorial Problems\\Combinatorial Problems\\Combinatorial Problems.csproj",
+      "projectUniqueName": "D:\\.NET\\Combinatorial Problems\\Combinatorial Problems\\1. Permutations without Repetitions\\1. Permutations without Repetitions.csproj",
+      "projectName": "1. Permutations without Repetitions",
+      "projectPath": "D:\\.NET\\Combinatorial Problems\\Combinatorial Problems\\1. Permutations without Repetitions\\1. Permutations without Repetitions.csproj",
       "packagesPath": "C:\\Users\\dakov\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dakov\\OneDrive\\Документи OneNote\\GitHub\\Git Repos\\Git SoftUni\\SoftUni Repos\\Combinatorial Problems\\Combinatorial Problems\\obj\\",
+      "outputPath": "D:\\.NET\\Combinatorial Problems\\Combinatorial Problems\\1. Permutations without Repetitions\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dakov\\AppData\\Roaming\\NuGet\\NuGet.Config",

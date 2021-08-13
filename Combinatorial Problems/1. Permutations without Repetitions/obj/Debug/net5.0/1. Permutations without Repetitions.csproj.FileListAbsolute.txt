@@ -1,0 +1,16 @@
+D:\.NET\Combinatorial Problems\Combinatorial Problems\1. Permutations without Repetitions\bin\Debug\net5.0\1. Permutations without Repetitions.exe
+D:\.NET\Combinatorial Problems\Combinatorial Problems\1. Permutations without Repetitions\bin\Debug\net5.0\1. Permutations without Repetitions.deps.json
+D:\.NET\Combinatorial Problems\Combinatorial Problems\1. Permutations without Repetitions\bin\Debug\net5.0\1. Permutations without Repetitions.runtimeconfig.json
+D:\.NET\Combinatorial Problems\Combinatorial Problems\1. Permutations without Repetitions\bin\Debug\net5.0\1. Permutations without Repetitions.runtimeconfig.dev.json
+D:\.NET\Combinatorial Problems\Combinatorial Problems\1. Permutations without Repetitions\bin\Debug\net5.0\1. Permutations without Repetitions.dll
+D:\.NET\Combinatorial Problems\Combinatorial Problems\1. Permutations without Repetitions\bin\Debug\net5.0\ref\1. Permutations without Repetitions.dll
+D:\.NET\Combinatorial Problems\Combinatorial Problems\1. Permutations without Repetitions\bin\Debug\net5.0\1. Permutations without Repetitions.pdb
+D:\.NET\Combinatorial Problems\Combinatorial Problems\1. Permutations without Repetitions\obj\Debug\net5.0\1. Permutations without Repetitions.csproj.AssemblyReference.cache
+D:\.NET\Combinatorial Problems\Combinatorial Problems\1. Permutations without Repetitions\obj\Debug\net5.0\1. Permutations without Repetitions.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\Combinatorial Problems\Combinatorial Problems\1. Permutations without Repetitions\obj\Debug\net5.0\1. Permutations without Repetitions.AssemblyInfoInputs.cache
+D:\.NET\Combinatorial Problems\Combinatorial Problems\1. Permutations without Repetitions\obj\Debug\net5.0\1. Permutations without Repetitions.AssemblyInfo.cs
+D:\.NET\Combinatorial Problems\Combinatorial Problems\1. Permutations without Repetitions\obj\Debug\net5.0\1. Permutations without Repetitions.csproj.CoreCompileInputs.cache
+D:\.NET\Combinatorial Problems\Combinatorial Problems\1. Permutations without Repetitions\obj\Debug\net5.0\1. Permutations without Repetitions.dll
+D:\.NET\Combinatorial Problems\Combinatorial Problems\1. Permutations without Repetitions\obj\Debug\net5.0\ref\1. Permutations without Repetitions.dll
+D:\.NET\Combinatorial Problems\Combinatorial Problems\1. Permutations without Repetitions\obj\Debug\net5.0\1. Permutations without Repetitions.pdb
+D:\.NET\Combinatorial Problems\Combinatorial Problems\1. Permutations without Repetitions\obj\Debug\net5.0\1. Permutations without Repetitions.genruntimeconfig.cache
