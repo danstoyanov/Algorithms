@@ -1,0 +1,16 @@
+C:\Users\dakov\OneDrive\Документи OneNote\GitHub\Git Repos\Git SoftUni\SoftUni Repos\Searching Sorting Algorithms\Searching Sorting Algorithms\bin\Debug\net5.0\Searching Sorting Algorithms.exe
+C:\Users\dakov\OneDrive\Документи OneNote\GitHub\Git Repos\Git SoftUni\SoftUni Repos\Searching Sorting Algorithms\Searching Sorting Algorithms\bin\Debug\net5.0\Searching Sorting Algorithms.deps.json
+C:\Users\dakov\OneDrive\Документи OneNote\GitHub\Git Repos\Git SoftUni\SoftUni Repos\Searching Sorting Algorithms\Searching Sorting Algorithms\bin\Debug\net5.0\Searching Sorting Algorithms.runtimeconfig.json
+C:\Users\dakov\OneDrive\Документи OneNote\GitHub\Git Repos\Git SoftUni\SoftUni Repos\Searching Sorting Algorithms\Searching Sorting Algorithms\bin\Debug\net5.0\Searching Sorting Algorithms.runtimeconfig.dev.json
+C:\Users\dakov\OneDrive\Документи OneNote\GitHub\Git Repos\Git SoftUni\SoftUni Repos\Searching Sorting Algorithms\Searching Sorting Algorithms\bin\Debug\net5.0\Searching Sorting Algorithms.dll
+C:\Users\dakov\OneDrive\Документи OneNote\GitHub\Git Repos\Git SoftUni\SoftUni Repos\Searching Sorting Algorithms\Searching Sorting Algorithms\bin\Debug\net5.0\ref\Searching Sorting Algorithms.dll
+C:\Users\dakov\OneDrive\Документи OneNote\GitHub\Git Repos\Git SoftUni\SoftUni Repos\Searching Sorting Algorithms\Searching Sorting Algorithms\bin\Debug\net5.0\Searching Sorting Algorithms.pdb
+C:\Users\dakov\OneDrive\Документи OneNote\GitHub\Git Repos\Git SoftUni\SoftUni Repos\Searching Sorting Algorithms\Searching Sorting Algorithms\obj\Debug\net5.0\Searching Sorting Algorithms.csproj.AssemblyReference.cache
+C:\Users\dakov\OneDrive\Документи OneNote\GitHub\Git Repos\Git SoftUni\SoftUni Repos\Searching Sorting Algorithms\Searching Sorting Algorithms\obj\Debug\net5.0\Searching Sorting Algorithms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dakov\OneDrive\Документи OneNote\GitHub\Git Repos\Git SoftUni\SoftUni Repos\Searching Sorting Algorithms\Searching Sorting Algorithms\obj\Debug\net5.0\Searching Sorting Algorithms.AssemblyInfoInputs.cache
+C:\Users\dakov\OneDrive\Документи OneNote\GitHub\Git Repos\Git SoftUni\SoftUni Repos\Searching Sorting Algorithms\Searching Sorting Algorithms\obj\Debug\net5.0\Searching Sorting Algorithms.AssemblyInfo.cs
+C:\Users\dakov\OneDrive\Документи OneNote\GitHub\Git Repos\Git SoftUni\SoftUni Repos\Searching Sorting Algorithms\Searching Sorting Algorithms\obj\Debug\net5.0\Searching Sorting Algorithms.csproj.CoreCompileInputs.cache
+C:\Users\dakov\OneDrive\Документи OneNote\GitHub\Git Repos\Git SoftUni\SoftUni Repos\Searching Sorting Algorithms\Searching Sorting Algorithms\obj\Debug\net5.0\Searching Sorting Algorithms.dll
+C:\Users\dakov\OneDrive\Документи OneNote\GitHub\Git Repos\Git SoftUni\SoftUni Repos\Searching Sorting Algorithms\Searching Sorting Algorithms\obj\Debug\net5.0\ref\Searching Sorting Algorithms.dll
+C:\Users\dakov\OneDrive\Документи OneNote\GitHub\Git Repos\Git SoftUni\SoftUni Repos\Searching Sorting Algorithms\Searching Sorting Algorithms\obj\Debug\net5.0\Searching Sorting Algorithms.pdb
+C:\Users\dakov\OneDrive\Документи OneNote\GitHub\Git Repos\Git SoftUni\SoftUni Repos\Searching Sorting Algorithms\Searching Sorting Algorithms\obj\Debug\net5.0\Searching Sorting Algorithms.genruntimeconfig.cache
