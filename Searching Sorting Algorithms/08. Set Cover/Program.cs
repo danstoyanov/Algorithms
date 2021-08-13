@@ -2,11 +2,11 @@
 
 namespace _08._Set_Cover
 {
-    class Program
+    public class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
-            Console.WriteLine("Hello World!");
+
         }
     }
 }
