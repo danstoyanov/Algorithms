@@ -1,0 +1,16 @@
+C:\Users\dakov\OneDrive\Документи OneNote\GitHub\Git Repos\Git SoftUni\SoftUni Repos\Searching Sorting Algorithms\3. Bubble Sort\bin\Debug\net5.0\3. Bubble Sort.exe
+C:\Users\dakov\OneDrive\Документи OneNote\GitHub\Git Repos\Git SoftUni\SoftUni Repos\Searching Sorting Algorithms\3. Bubble Sort\bin\Debug\net5.0\3. Bubble Sort.deps.json
+C:\Users\dakov\OneDrive\Документи OneNote\GitHub\Git Repos\Git SoftUni\SoftUni Repos\Searching Sorting Algorithms\3. Bubble Sort\bin\Debug\net5.0\3. Bubble Sort.runtimeconfig.json
+C:\Users\dakov\OneDrive\Документи OneNote\GitHub\Git Repos\Git SoftUni\SoftUni Repos\Searching Sorting Algorithms\3. Bubble Sort\bin\Debug\net5.0\3. Bubble Sort.runtimeconfig.dev.json
+C:\Users\dakov\OneDrive\Документи OneNote\GitHub\Git Repos\Git SoftUni\SoftUni Repos\Searching Sorting Algorithms\3. Bubble Sort\bin\Debug\net5.0\3. Bubble Sort.dll
+C:\Users\dakov\OneDrive\Документи OneNote\GitHub\Git Repos\Git SoftUni\SoftUni Repos\Searching Sorting Algorithms\3. Bubble Sort\bin\Debug\net5.0\ref\3. Bubble Sort.dll
+C:\Users\dakov\OneDrive\Документи OneNote\GitHub\Git Repos\Git SoftUni\SoftUni Repos\Searching Sorting Algorithms\3. Bubble Sort\bin\Debug\net5.0\3. Bubble Sort.pdb
+C:\Users\dakov\OneDrive\Документи OneNote\GitHub\Git Repos\Git SoftUni\SoftUni Repos\Searching Sorting Algorithms\3. Bubble Sort\obj\Debug\net5.0\3. Bubble Sort.csproj.AssemblyReference.cache
+C:\Users\dakov\OneDrive\Документи OneNote\GitHub\Git Repos\Git SoftUni\SoftUni Repos\Searching Sorting Algorithms\3. Bubble Sort\obj\Debug\net5.0\3. Bubble Sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dakov\OneDrive\Документи OneNote\GitHub\Git Repos\Git SoftUni\SoftUni Repos\Searching Sorting Algorithms\3. Bubble Sort\obj\Debug\net5.0\3. Bubble Sort.AssemblyInfoInputs.cache
+C:\Users\dakov\OneDrive\Документи OneNote\GitHub\Git Repos\Git SoftUni\SoftUni Repos\Searching Sorting Algorithms\3. Bubble Sort\obj\Debug\net5.0\3. Bubble Sort.AssemblyInfo.cs
+C:\Users\dakov\OneDrive\Документи OneNote\GitHub\Git Repos\Git SoftUni\SoftUni Repos\Searching Sorting Algorithms\3. Bubble Sort\obj\Debug\net5.0\3. Bubble Sort.csproj.CoreCompileInputs.cache
+C:\Users\dakov\OneDrive\Документи OneNote\GitHub\Git Repos\Git SoftUni\SoftUni Repos\Searching Sorting Algorithms\3. Bubble Sort\obj\Debug\net5.0\3. Bubble Sort.dll
+C:\Users\dakov\OneDrive\Документи OneNote\GitHub\Git Repos\Git SoftUni\SoftUni Repos\Searching Sorting Algorithms\3. Bubble Sort\obj\Debug\net5.0\ref\3. Bubble Sort.dll
+C:\Users\dakov\OneDrive\Документи OneNote\GitHub\Git Repos\Git SoftUni\SoftUni Repos\Searching Sorting Algorithms\3. Bubble Sort\obj\Debug\net5.0\3. Bubble Sort.pdb
+C:\Users\dakov\OneDrive\Документи OneNote\GitHub\Git Repos\Git SoftUni\SoftUni Repos\Searching Sorting Algorithms\3. Bubble Sort\obj\Debug\net5.0\3. Bubble Sort.genruntimeconfig.cache
